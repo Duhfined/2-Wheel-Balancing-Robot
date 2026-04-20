@@ -7,8 +7,9 @@ This section of the Research folder aims to focus on the hardware capabilities o
 
 1. MCU (1)
 2. Motors (2)
-3. IMU (1)
-4. Wheels (2)
-5. Cardboard (TBD)
+3. Motor Driver (1)
+4. IMU (1)
+5. Wheels (2)
+6. Cardboard (TBD)
 
 
