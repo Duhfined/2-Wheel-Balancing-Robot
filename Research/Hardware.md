@@ -11,7 +11,8 @@ This section of the Research folder aims to focus on the hardware capabilities o
 4. IMU (1)
 5. Wheels (2)
 6. Power Supply (2)
-7. Cardboard (TBD)
+7. Buck Converter (1)
+8. Cardboard (TBD)
 
 ## Tools Required:
 
