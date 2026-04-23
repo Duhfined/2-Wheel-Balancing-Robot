@@ -30,3 +30,5 @@ This section of the Research folder aims to focus on the hardware capabilities o
 5. Wheel diameter: 65mm
 Wheel thickness: 26mm
 6. Cardboard
+
+* **ESP32:**
