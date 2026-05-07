@@ -34,10 +34,19 @@ This section of the Research folder aims to focus on the hardware capabilities o
 
 ## Connections:
 
-| Header 1 | Header 2 |
-| -------- | -------- |
-| Row 1    | Data 1   |
-| Row 2    | Data 2   |
+| TB6612FNG pin | ESP32 Pin |
+| --------      | --------  |
+| STBY        | GPIIO 27   |
+| AIN1       | GPIO 14  |
+| AIN2        | GPIO 12    |
+| PWMA      | GPIO 13   |
+| BIN1      | GPIO 25  |
+| BIN2        | GPIO 26   |
+| PWMB        | GPIO 33   |
+| VCC        | ESP32 3.3V   |
+| GND        | ESP32 GND   |
+| VM       | Battery +  |
+
 
 
 
