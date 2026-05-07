@@ -34,18 +34,20 @@ This section of the Research folder aims to focus on the hardware capabilities o
 
 ## Connections:
 
-| TB6612FNG pin | ESP32 Pin |
-| --------      | --------  |
-| STBY        | GPIIO 27   |
-| AIN1       | GPIO 14  |
-| AIN2        | GPIO 12    |
-| PWMA      | GPIO 13   |
-| BIN1      | GPIO 25  |
-| BIN2        | GPIO 26   |
-| PWMB        | GPIO 33   |
-| VCC        | ESP32 3.3V   |
-| GND        | ESP32 GND   |
-| VM       | Battery +  |
+
+| TB6612FNG Pin | ESP32 Pin | Function |
+| :--- | :--- | :--- |
+| **STBY** | GPIO 27 | Standby (Set HIGH to run) |
+| **AIN1** | GPIO 14 | Motor A Direction 1 |
+| **AIN2** | GPIO 15 | Motor A Direction 2 (Replaces GPIO 12) |
+| **PWMA** | GPIO 13 | Motor A Speed |
+| **BIN1** | GPIO 25 | Motor B Direction 1 |
+| **BIN2** | GPIO 26 | Motor B Direction 2 |
+| **PWMB** | GPIO 33 | Motor B Speed |
+| **VCC**  | 3.3V    | Logic Power |
+| **GND**  | GND     | Common Ground |
+| **VM**   | Battery + | Motor Power |
+
 
 
 
