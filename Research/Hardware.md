@@ -32,3 +32,13 @@ This section of the Research folder aims to focus on the hardware capabilities o
 * **LM2596S:** Buck converter module used to step down voltage to 5V for the 3.3v mcu. The freenove comes with an onboard voltage regular which can be fed directly into the 5V pin. The board itself operates at 3.3V along with every other GPIO pin on the ESP.
 
 
+## Connections:
+
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+
+
+
