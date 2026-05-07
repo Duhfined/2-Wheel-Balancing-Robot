@@ -48,6 +48,13 @@ This section of the Research folder aims to focus on the hardware capabilities o
 | **GND**  | GND     | Common Ground |
 | **VM**   | Battery + | Motor Power |
 
+| TB6612FNG Pin | ESP32 Pin | 
+| :--- | :--- |
+| **VCC** | 3.3V |
+| **GND** | GND |
+| **SDA** | GPIO 21 |
+| **SCL** | GPIO 22 |
+
 
 
 
