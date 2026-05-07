@@ -34,7 +34,7 @@ This section of the Research folder aims to focus on the hardware capabilities o
 
 ## Connections:
 
-
+### TB6612FNG:
 | TB6612FNG Pin | ESP32 Pin | Function |
 | :--- | :--- | :--- |
 | **STBY** | GPIO 27 | Standby (Set HIGH to run) |
@@ -48,7 +48,8 @@ This section of the Research folder aims to focus on the hardware capabilities o
 | **GND**  | GND     | Common Ground |
 | **VM**   | Battery + | Motor Power |
 
-| TB6612FNG Pin | ESP32 Pin | 
+### MPU-6050:
+| MPU-6050 Pin | ESP32 Pin | 
 | :--- | :--- |
 | **VCC** | 3.3V |
 | **GND** | GND |
