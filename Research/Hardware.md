@@ -34,11 +34,11 @@ This section of the Research folder aims to focus on the hardware capabilities o
 
 ## Connections:
 
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Row 1    | Data 1   |
+| Row 2    | Data 2   |
+
 
 
 
