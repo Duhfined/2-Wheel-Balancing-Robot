@@ -56,6 +56,15 @@ This section of the Research folder aims to focus on the hardware capabilities o
 | **SDA** | GPIO 21 |
 | **SCL** | GPIO 22 |
 
+### LM2596S :
+
+| LM2596S Pin | Connection Pin |
+| :--- | :--- |
+| **IN+** | |
+| **IN-** | |
+| **OUT+** | |
+| **OUT-** | |
+
 
 
 
