@@ -60,10 +60,10 @@ This section of the Research folder aims to focus on the hardware capabilities o
 
 | LM2596S Pin | Connection Pin |
 | :--- | :--- |
-| **IN+** | |
-| **IN-** | |
-| **OUT+** | |
-| **OUT-** | |
+| **IN+** | TB6612FNG VM |
+| **IN-** | TB6612FNG GND |
+| **OUT+** | ESP32 5V |
+| **OUT-** | ESP32 GND|
 
 
 
