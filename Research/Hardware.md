@@ -43,7 +43,7 @@ This section of the Research folder aims to focus on the hardware capabilities o
 | **PWMA** | GPIO 13 | Motor A Speed |
 | **BIN1** | GPIO 25 | Motor B Direction 1 |
 | **BIN2** | GPIO 26 | Motor B Direction 2 |
-| **PWMB** | GPIO 33 | Motor B Speed |
+| **PWMB** | GPIO 32 | Motor B Speed |
 | **VCC**  | 3.3V    | Logic Power |
 | **GND**  | GND     | Common Ground |
 | **VM**   | Battery + | Motor Power |
