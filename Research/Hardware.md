@@ -19,6 +19,7 @@ This section of the Research folder aims to focus on the hardware capabilities o
 1. Exacto-Knife (1)
 2. Hot GLue Gun (1)
 3. PC (1)
+4. Soldering Iron/Kit
 
 
 ## Component Spesifications:
